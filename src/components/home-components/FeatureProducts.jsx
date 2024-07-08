@@ -1,4 +1,4 @@
-import FeatureProduct from "./FeatureProduct";
+import FeatureProduct from "../common-components/FeatureProduct";
 
 const FeatureProducts = () => {
   return (

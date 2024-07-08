@@ -1,4 +1,4 @@
-import CompanyLogos from "../constants/CompanyLogos";
+import CompanyLogos from "../../constants/CompanyLogos";
 const CompanySection = () => {
   return (
     <>
