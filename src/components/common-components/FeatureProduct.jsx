@@ -4,7 +4,7 @@ const FeatureProduct = ({ image, name }) => {
     <>
       <div className="min-h-[250px] rounded-md sm:col-span-3 bg-white shadow-lg">
         <div className="flex flex-col items-center">
-          {image}
+          <img src={image} alt="image" className="w-[200px]" />
           <p className="flex items-center justify-center text-center mt-3">
             {name}
           </p>
